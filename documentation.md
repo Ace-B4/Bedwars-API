@@ -1170,7 +1170,7 @@ type ItemMetadata = {
 ## Important Notes
 
 - **Educational purposes only** - This API is for educational purposes only
-- **Current working as of January 28, 2026** - API is 1:1 the same as the game controllers, can change with updates.
+- **Current working as of January 29, 2026** - The API calls mirror the game's controllers 1:1 internally, can change with updates.
 
 ---
 
